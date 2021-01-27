@@ -15,5 +15,5 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-apt-get install libpcre3 libpcre3-dev
-git clone https://github.com/AlexZhuo/openwrt-shadowsocksr.git package/shadowsocksr-libev
+# apt-get install libpcre3 libpcre3-dev
+# git clone https://github.com/AlexZhuo/openwrt-shadowsocksr.git package/shadowsocksr-libev
